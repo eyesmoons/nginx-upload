@@ -1,0 +1,31 @@
+.upload {
+    position: relative;
+    display: inline-block;
+    /*background: #D0EEFF;*/
+    /*border: 1px solid #99D3F5;*/
+    /*border-radius: 4px;*/
+    /*padding: 4px 12px;*/
+    overflow: hidden;
+    /*color: #1E88C7;*/
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 20px;
+    text-align:center;
+}
+
+.upload .chooseFile {
+    display: inline-block; padding:6px 10px;color: #fff; font-size:14px;text-align: center;text-decoration: none;/*background-color: #03a9f5;*/border: none;cursor:pointer;
+    border-radius: 3px; background-image: none; box-shadow: 0 1px rgba(0,0,0,.15), inset 0 1px rgba(255,255,255,.15);  text-shadow: 1px 1px rgba(0,0,0,.1);}
+.chooseFile:hover,.chooseFile:focus{color: #fff; text-decoration: none;  background-image: linear-gradient(to bottom, rgba(0,0,0,.1), rgba(0,0,0,.1));
+}
+.chooseFile-blue {background-color:#2c94e3; border:1px solid #1f73b6}
+
+.chooseFile-IE8 {
+    position:relative;
+    display:block;
+    width:80px;
+    height:28px;
+    background:#EEE;
+    border:1px solid #999;
+    text-align:center;
+}

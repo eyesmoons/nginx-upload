@@ -1,0 +1,10 @@
+.btn_icon{ display: inline-block; padding:0 0 0 23px; height:26px; line-height:24px; color:#333; background:5px 6px no-repeat; border-radius:4px;}
+.btn_icon.add{ background-image:url(./img/icon_add.png);}
+.btn_icon.edit{ background-image:url(./img/icon_edit.png);}
+.btn_icon.del{ background-image:url(./img/icon_delete.png);}
+.btn_icon.first{ background-image:url(./img/icon_first.png);}
+.btn_icon.end{ background-image:url(./img/icon_end.png);}
+.btn_icon.mail{ background-image:url(./img/icon_mail.png);}
+.btn_icon.lock{ background-image:url(./img/icon_lock.png);}
+.btn_icon.import{ background-image:url(./img/icon_import.png);}
+.btn_icon.download{ background-image:url(./img/icon_download.png);}

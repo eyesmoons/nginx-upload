@@ -1,0 +1,10 @@
+.system_icon{ display: inline-block; padding:0 0 0 23px; height:26px; line-height:24px; color:#333; background:5px 6px no-repeat; border-radius:4px;}
+.system_icon.add{ background-image:url(./img/icon_add.png);}
+.system_icon.edit{ background-image:url(./img/icon_edit.png);}
+.system_icon.del{ background-image:url(./img/icon_delete.png);}
+.system_icon.first{ background-image:url(./img/icon_first.png);}
+.system_icon.end{ background-image:url(./img/icon_end.png);}
+.system_icon.mail{ background-image:url(./img/icon_mail.png);}
+.system_icon.lock{ background-image:url(./img/icon_lock.png);}
+.system_icon.import{ background-image:url(./img/icon_import.png);}
+.system_icon.download{ background-image:url(./img/icon_download.png);}

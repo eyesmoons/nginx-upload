@@ -1,0 +1,10 @@
+.menu_icon{ display: inline-block; padding:0 0 0 23px; height:26px; line-height:24px; color:#333; background:5px 6px no-repeat; border-radius:4px;}
+.menu_icon.add{ background-image:url(./img/icon_add.png);}
+.menu_icon.edit{ background-image:url(./img/icon_edit.png);}
+.menu_icon.del{ background-image:url(./img/icon_delete.png);}
+.menu_icon.first{ background-image:url(./img/icon_first.png);}
+.menu_icon.end{ background-image:url(./img/icon_end.png);}
+.menu_icon.mail{ background-image:url(./img/icon_mail.png);}
+.menu_icon.lock{ background-image:url(./img/icon_lock.png);}
+.menu_icon.import{ background-image:url(./img/icon_import.png);}
+.menu_icon.download{ background-image:url(./img/icon_download.png);}
